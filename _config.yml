@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: sculizhenghao@foxmail.com
 description: "Every failure is leading towards success."
 keyword: "Blog, 政浩的博客, lizhenghao, 李政浩, iOS, Apple, iPhone"
-url: "http://sculizhenghao.github.io"          # your host, for absolute URL
+url: "http://www.yazawanico.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sculizhenghao/sculizhenghao.github.io" # you code repository
 
