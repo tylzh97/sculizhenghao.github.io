@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Hello World
+SEOTitle: 政浩的博客
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: sculizhenghao@foxmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "Blog, 政浩的博客, lizhenghao, 李政浩, iOS, Apple, iPhone"
+url: "http://sculizhenghao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/sculizhenghao/sculizhenghao.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "One pain one gain."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:     脚气少女王二狗
+# zhihu_username:     qiubaiying
+github_username:    sculizhenghao
+# facebook_username:  baiying.qiu.7
+# jianshu_username:   e71990ada2fd
+# twitter_username:   qiubaiying
 
 
 
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: f5441dc5e56419111e53                            #生成的clientID
+  clientSecret: 4bd4a3ee79040977718c0d824c95b32094d885d3    #生成的clientSecret
+  repo: sculizhenghao.github.io    #仓库名称
+  owner: sculizhenghao    #github用户名
+  admin: sculizhenghao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
